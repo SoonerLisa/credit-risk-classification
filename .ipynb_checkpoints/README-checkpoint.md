@@ -21,7 +21,7 @@ Spoiler alert, the model did a fine job predicting the class of the borrowers. L
 
 Analysis Modules/Tools used: numpy, pandas, python, pathlib, sklearn.metrics with confusion_matrix and classification_report, sklearn for the train_test_split, sklear.linear_model for Logistical Regression, seaborn, matplotlib.pyplot, sklearn.neighbors with KNeighborsClassifier
 
-Code works well in a python dev environment. When written a Python 3 (ipykernal) was used for coding within jupyter notebook. Visual Studio Code also works well with the script.
+Code works well in a python dev environment. When written a Python 3 (ipykernal) was used for coding within jupyter notebook.
 Environment: dev (python 3.13.0)
 
 No outside references were used in this challenge. Only those recommended and supported by BootCampSpot.
